@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    background-color: blueviolet;
+    height: 600px;
+
+}
+.form-vertical{
+    background-color: blueviolet;
+    justify-content: center;
+}
+.row{
+    background-color: aquamarine;
+}
+.form-group-input-group{
+    background-color: chartreuse;
+}
+.input-group-addon{
+    background-color: cornflowerblue;
+}
+
+.form h1{
+    display: flex;
+    justify-content: center;
+}

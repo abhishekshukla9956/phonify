@@ -1,0 +1,27 @@
+
+body {
+    display:flex;
+padding-top: 70px;
+background-color: bisque;
+}
+.login-containt  {          
+        margin: 0 auto;         
+        box-shadow: 0 15px 20px rgba(0, 0, 0, 0.1);
+        width: 40%;
+    }
+    .outer-form{
+        padding: 0px 5px;
+    }
+     .login-containt h1 {
+        text-align: center;
+        font-weight: bold;
+        font-size: 26px;
+        padding-bottom: 10px;
+
+    }
+
+@media screen and (max-width: 600px){
+.login-containt{
+width: 100%
+}
+}
